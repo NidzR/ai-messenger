@@ -1,0 +1,2 @@
+# ai-messenger
+HTML,CSS,JAVASCRIPT,GEMINI_API_KEY
